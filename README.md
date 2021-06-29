@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I 'm Sanjoy, a full-stak web developer, a programmer and love to code and food! To know more, you can visit here - skpaul.me/about
+I 'm Sanjoy, a full-stak web developer, a programmer and love to code and food! To know more, you can visit here - [skpaul.me/about](https://skpaul.me/about)
 
 <!--
 **skpaul82/skpaul82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
