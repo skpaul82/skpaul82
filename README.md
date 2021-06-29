@@ -1,11 +1,11 @@
 ### Hey there 👋
 
 I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
+
 <br>
 <br>
 
 ## Stay in touch?
-
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%f1f1f1f1.svg?&style=for-the-badge&logo=medium&logoColor=gray" />](https://skpaul82.medium.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/LLTwithSKPaul)
@@ -24,9 +24,6 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <img align="left" alt="HTML&CSS" src="https://img.shields.io/badge/HTML&CSS-%F00.svg?&style=for-the-badge&logo=HTML&CSS&logoColor=white" /> 
 <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
-
-
-<br>
 <br>
 
 ## Learning
@@ -37,7 +34,6 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 
 ## Collaboration or Project?
 - Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/15min)
-
 <br>
 
 ## Blog posts
