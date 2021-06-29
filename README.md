@@ -26,6 +26,15 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
 
+<br>
+<br>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--
 **skpaul82/skpaul82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
