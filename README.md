@@ -3,6 +3,7 @@
 I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
 
 <br>
+<br>
 
 ## Stay in touch?
 
@@ -15,14 +16,15 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal) -->
 
 <br>
+<br>
 
 ## Expertise
-[<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%230077B5.svg?&style=for-the-badge&logo=PHP&logoColor=white" />]
-[<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-%230077B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />]
-[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%230077B7.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />]
-[<img align="left" alt="HTML&CSS" src="https://img.shields.io/badge/HTML&CSS-%F00.svg?&style=for-the-badge&logo=HTML&CSS&logoColor=white" />]
-[<img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%9876543.svg?&style=for-the-badge&logo=Apache&logoColor=white" />]
-[<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%98765435.svg?&style=for-the-badge&logo=Linux&logoColor=white" />]
+<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%230077B5.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> 
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-%230077B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%230077B7.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" /> 
+<img align="left" alt="HTML&CSS" src="https://img.shields.io/badge/HTML&CSS-%F00.svg?&style=for-the-badge&logo=HTML&CSS&logoColor=white" /> 
+<img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
 
 <!--
 **skpaul82/skpaul82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
