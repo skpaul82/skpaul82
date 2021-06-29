@@ -25,10 +25,22 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
 
+
 <br>
 <br>
 
-## Blog posts
+# Learning
+- Nah, it's secret. (Growth Hacking, Python)
+- Send an email at hello@skpaul.me to know more
+
+<br>
+
+# Collaboration or Project?
+- Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/15min)
+
+<br>
+
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Host your Open-Source project in AWS Cloud](https://skpaul82.medium.com/host-your-open-source-project-in-aws-cloud-3a5b5e0c6c0f?source=rss-1df4821e7a5b------2)
 - [Print or debug queries in Laravel](https://skpaul82.medium.com/print-or-debug-queries-in-laravel-d803fbcb0d0?source=rss-1df4821e7a5b------2)
