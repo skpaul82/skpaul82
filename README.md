@@ -29,18 +29,18 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <br>
 <br>
 
-# Learning
+## Learning
 - Nah, it's secret. (Growth Hacking, Python)
 - Send an email at hello@skpaul.me to know more
 
 <br>
 
-# Collaboration or Project?
+## Collaboration or Project?
 - Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/15min)
 
 <br>
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Host your Open-Source project in AWS Cloud](https://skpaul82.medium.com/host-your-open-source-project-in-aws-cloud-3a5b5e0c6c0f?source=rss-1df4821e7a5b------2)
 - [Print or debug queries in Laravel](https://skpaul82.medium.com/print-or-debug-queries-in-laravel-d803fbcb0d0?source=rss-1df4821e7a5b------2)
