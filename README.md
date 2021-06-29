@@ -30,10 +30,6 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Host your Open-Source project in AWS Cloud](https://skpaul82.medium.com/host-your-open-source-project-in-aws-cloud-3a5b5e0c6c0f?source=rss-1df4821e7a5b------2)
-- [Print or debug queries in Laravel](https://skpaul82.medium.com/print-or-debug-queries-in-laravel-d803fbcb0d0?source=rss-1df4821e7a5b------2)
-- [How to get Column Name from a table in Laravel and PHP](https://skpaul82.medium.com/how-to-get-column-name-from-a-table-in-laravel-and-php-adbe034bb3d5?source=rss-1df4821e7a5b------2)
-- [Validate Bad Email Address in PHP, Laravel](https://skpaul82.medium.com/validate-bad-emails-in-php-laravel-e902d3a9d390?source=rss-1df4821e7a5b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
