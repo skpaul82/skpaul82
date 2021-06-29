@@ -22,16 +22,13 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <img align="left" alt="HTML&CSS" src="https://img.shields.io/badge/HTML&CSS-%F00.svg?&style=for-the-badge&logo=HTML&CSS&logoColor=white" /> 
 <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
-<br>
 
 ## Learning
 - Nah, it's secret. (Growth Hacking, Python)
 - Send an email at hello@skpaul.me to know more
-<br>
 
 ## Collaboration or Project?
 - Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/15min)
-<br>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
