@@ -3,6 +3,7 @@
 I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
 
 <br>
+
 ## to Stay in touch follow me!
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
