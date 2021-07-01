@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
+I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
 <br>
 <br>
 
