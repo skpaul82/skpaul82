@@ -23,7 +23,8 @@ I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-2DA5D7.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />
 <img align="left" alt="Amazon Web Services" src="https://img.shields.io/badge/aws-F79919.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git-E84D31.svg?&style=for-the-badge&logo=git&logoColor=white" />
-------------
+
+---
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-4E99DF.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
 <img align="left" alt="Laravel" src="https://img.shields.io/badge/Laravel-E8392C.svg?&style=for-the-badge&logo=Laravel&logoColor=white" />
