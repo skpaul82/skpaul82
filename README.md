@@ -19,7 +19,7 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-505B95.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86.svg?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7D138.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" /> 
-<img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-E96227.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-E96227.svg?&style=for-the-badge&logo=HTML5&logoColor=white" /> 
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-2DA5D7.svg?&style=for-the-badge&logo=CSS3&logoColor=white" /> 
 <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-C92332.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
 <img align="left" alt="nGinx" src="https://img.shields.io/badge/nGinx-009137.svg?&style=for-the-badge&logo=nGinx&logoColor=white" /> 
