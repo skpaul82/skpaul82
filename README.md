@@ -24,6 +24,7 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 <!-- <img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-C92332.svg?&style=for-the-badge&logo=Apache&logoColor=white" />  -->
 <!-- <img align="left" alt="nGinx" src="https://img.shields.io/badge/nGinx-009137.svg?&style=for-the-badge&logo=nGinx&logoColor=white" />  -->
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-F5B21D.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
+
 <br>
 
 <img align="left" alt="git" src="https://img.shields.io/badge/git-E84D31.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
