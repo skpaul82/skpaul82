@@ -35,10 +35,11 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Host your Open-Source project in AWS Cloud](https://skpaul82.medium.com/host-your-open-source-project-in-aws-cloud-3a5b5e0c6c0f?source=rss-1df4821e7a5b------2)
-- [Print or debug queries in Laravel](https://skpaul82.medium.com/print-or-debug-queries-in-laravel-d803fbcb0d0?source=rss-1df4821e7a5b------2)
-- [How to get Column Name from a table in Laravel and PHP](https://skpaul82.medium.com/how-to-get-column-name-from-a-table-in-laravel-and-php-adbe034bb3d5?source=rss-1df4821e7a5b------2)
-- [Validate Bad Email Address in PHP, Laravel](https://skpaul82.medium.com/validate-bad-emails-in-php-laravel-e902d3a9d390?source=rss-1df4821e7a5b------2)
+- [Remove big (.zip) files from git history](https://skpaul.me/remove-big-zip-files-from-git-history/?utm_source=rss&utm_medium=rss&utm_campaign=remove-big-zip-files-from-git-history)
+- [Convert a number to a Comma separated value or string with Decimal point in JavaScript](https://skpaul.me/convert-a-number-to-a-comma-separated-value-or-string-with-decimal-point-in-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=convert-a-number-to-a-comma-separated-value-or-string-with-decimal-point-in-javascript)
+- [Open-Source project in AWS Cloud](https://skpaul.me/open-source-project-in-aws-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=open-source-project-in-aws-cloud)
+- [How to get Column Name from a table in Laravel and PHP](https://skpaul.me/how-to-get-column-name-from-a-table-in-laravel-and-php/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-column-name-from-a-table-in-laravel-and-php)
+- [Validate Bad Email Address in PHP, Laravel](https://skpaul.me/validate-bad-emails-in-php-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=validate-bad-emails-in-php-laravel)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
