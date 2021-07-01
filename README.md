@@ -6,22 +6,29 @@ I 'm Sanjoy, a full-stack web developer, a programmer like to code and food 😄
 
 ## Stay in touch?
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%f1f1f1f1.svg?&style=for-the-badge&logo=medium&logoColor=gray" />](https://skpaul82.medium.com/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-444.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://skpaul82.medium.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/LLTwithSKPaul)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SanjoyKPaul)
-[<img align="left" alt="Blog" src="https://img.shields.io/badge/blog-%44433322.svg?&style=for-the-badge&logo=Blog&logoColor=white" />](https://skpaul.me/blog)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1A91DA.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SanjoyKPaul)
+[<img align="left" alt="Blog" src="https://img.shields.io/badge/blog-ad1008.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](https://skpaul.me/blog)
 
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal) -->
 <br>
 <br>
 
 ## Expertise
-<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%230077B5.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> 
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-%230077B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%230077B7.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" /> 
-<img align="left" alt="HTML&CSS" src="https://img.shields.io/badge/HTML&CSS-%F00.svg?&style=for-the-badge&logo=HTML&CSS&logoColor=white" /> 
-<img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-%987655.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
-<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-%987654.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
+<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-505B95.svg?&style=for-the-badge&logo=PHP&logoColor=white" /> 
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86.svg?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7D138.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" /> 
+<img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-E96227.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
+<img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-2DA5D7.svg?&style=for-the-badge&logo=CSS3&logoColor=white" /> 
+<img align="left" alt="Apache" src="https://img.shields.io/badge/Apache-C92332.svg?&style=for-the-badge&logo=Apache&logoColor=white" /> 
+<img align="left" alt="nGinx" src="https://img.shields.io/badge/nGinx-009137.svg?&style=for-the-badge&logo=nGinx&logoColor=white" /> 
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-F5B21D.svg?&style=for-the-badge&logo=Linux&logoColor=white" /> 
+<img align="left" alt="git" src="https://img.shields.io/badge/git-E84D31.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
+<img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-4E99DF.svg?&style=for-the-badge&logo=Docker&logoColor=white" /> 
+<img align="left" alt="Laravel" src="https://img.shields.io/badge/Laravel-E8392C.svg?&style=for-the-badge&logo=Laravel&logoColor=white" /> 
+<img align="left" alt="Vuejs" src="https://img.shields.io/badge/Vuejs-00BB7C.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />
+
 <br>
 
 ## Learning
