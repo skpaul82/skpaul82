@@ -2,15 +2,14 @@
 
 I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
 <br>
-<br>
-
-## Stay in touch?
+Thanks for visiting and I'd love to connect!
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-444.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://skpaul82.medium.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/LLTwithSKPaul)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1A91DA.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SanjoyKPaul)
 [<img align="left" alt="Blog" src="https://img.shields.io/badge/blog-ad1008.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](https://skpaul.me/blog)
 [<img align="left" alt="Resume" src="https://img.shields.io/badge/resume-ededed.svg?&style=for-the-badge&logo=microsoft-word&logoColor=444" />](https://skpaul.me/resume)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=skpaul82.skpaul82)
 
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal) -->
 <br>
@@ -54,6 +53,8 @@ I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 
 - [Validate Bad Email Address in PHP, Laravel](https://skpaul.me/validate-bad-emails-in-php-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=validate-bad-emails-in-php-laravel)
 <!-- BLOG-POST-LIST:END -->
 <br>
+
+![Sanjoy's github stats](https://github-readme-stats.vercel.app/api?username=skpaul82&show_icons=true)
 
 <!--
 **skpaul82/skpaul82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
