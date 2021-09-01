@@ -4,6 +4,7 @@ I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 
 <br>
 Thanks for visiting and I'd love to connect!
 <br>
+<!--Website -->
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-444.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://skpaul82.medium.com/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/LLTwithSKPaul)
