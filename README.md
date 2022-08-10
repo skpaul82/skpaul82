@@ -48,11 +48,11 @@ Thanks for visiting and I'd love to connect!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Remove big (.zip) files from git history](https://skpaul.me/remove-big-zip-files-from-git-history/?utm_source=rss&utm_medium=rss&utm_campaign=remove-big-zip-files-from-git-history)
-- [Convert a number to a Comma separated value or string with Decimal point in JavaScript](https://skpaul.me/convert-a-number-to-a-comma-separated-value-or-string-with-decimal-point-in-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=convert-a-number-to-a-comma-separated-value-or-string-with-decimal-point-in-javascript)
-- [Open-Source project in AWS Cloud](https://skpaul.me/open-source-project-in-aws-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=open-source-project-in-aws-cloud)
-- [How to get Column Name from a table in Laravel and PHP](https://skpaul.me/how-to-get-column-name-from-a-table-in-laravel-and-php/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-column-name-from-a-table-in-laravel-and-php)
-- [Validate Bad Email Address in PHP, Laravel](https://skpaul.me/validate-bad-emails-in-php-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=validate-bad-emails-in-php-laravel)
+- [Disable chrome extension’s JS when debugging in development tools](https://skpaul.me/disable-chrome-extensions-js-when-debugging-in-development-tools/?utm_source=rss&utm_medium=rss&utm_campaign=disable-chrome-extensions-js-when-debugging-in-development-tools)
+- [Host Nodejs Express and Vuejs Application in Apache WebServer in Ubuntu](https://skpaul.me/host-nodejs-express-and-vuejs-application-in-apache-webserver-in-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=host-nodejs-express-and-vuejs-application-in-apache-webserver-in-ubuntu)
+- [How to get or export SQL query from Laravel migration file?](https://skpaul.me/how-to-get-or-export-sql-query-from-laravel-migration-file/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-or-export-sql-query-from-laravel-migration-file)
+- [How to use Google Search like a  PRO?](https://skpaul.me/how-to-use-google-search-like-a-pro/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-google-search-like-a-pro)
+- [Developer Hacks – quick and fast](https://skpaul.me/developer-hacks-quick-and-fast/?utm_source=rss&utm_medium=rss&utm_campaign=developer-hacks-quick-and-fast)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
