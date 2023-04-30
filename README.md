@@ -50,11 +50,11 @@ Thanks for visiting and I'd love to connect!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto format or Masking phone number or te input field](https://skpaul.me/auto-format-or-masking-phone-number-or-te-input-field/?utm_source=rss&utm_medium=rss&utm_campaign=auto-format-or-masking-phone-number-or-te-input-field)
 - [gitignore .env not working – remove cache from git history](https://skpaul.me/gitignore-env-not-working-remove-cache-from-git-history/?utm_source=rss&utm_medium=rss&utm_campaign=gitignore-env-not-working-remove-cache-from-git-history)
 - [How to get the latest and oldest record in Laravel Eloquent through ofMany.](https://skpaul.me/how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany)
 - [Copy or duplicate a row in Laravel project](https://skpaul.me/copy-or-duplicate-a-row-in-laravel-project/?utm_source=rss&utm_medium=rss&utm_campaign=copy-or-duplicate-a-row-in-laravel-project)
 - [Disable chrome extension’s JS when debugging in development tools](https://skpaul.me/disable-chrome-extensions-js-when-debugging-in-development-tools/?utm_source=rss&utm_medium=rss&utm_campaign=disable-chrome-extensions-js-when-debugging-in-development-tools)
-- [Host Nodejs Express and Vuejs Application in Apache WebServer in Ubuntu](https://skpaul.me/host-nodejs-express-and-vuejs-application-in-apache-webserver-in-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=host-nodejs-express-and-vuejs-application-in-apache-webserver-in-ubuntu)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
