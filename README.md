@@ -50,11 +50,11 @@ Thanks for visiting and I'd love to connect!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The AWS Active Program for Startups – step by step in detail](https://skpaul.me/the-aws-active-program-for-startups-step-by-step-in-detail/?utm_source=rss&utm_medium=rss&utm_campaign=the-aws-active-program-for-startups-step-by-step-in-detail)
 - [Auto format or Masking phone number or te input field](https://skpaul.me/auto-format-or-masking-phone-number-or-te-input-field/?utm_source=rss&utm_medium=rss&utm_campaign=auto-format-or-masking-phone-number-or-te-input-field)
+- [How to Apply and Join the AWS Community Builders Program](https://skpaul.me/how-to-apply-and-join-the-aws-community-builders-program/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-apply-and-join-the-aws-community-builders-program)
 - [gitignore .env not working – remove cache from git history](https://skpaul.me/gitignore-env-not-working-remove-cache-from-git-history/?utm_source=rss&utm_medium=rss&utm_campaign=gitignore-env-not-working-remove-cache-from-git-history)
 - [How to get the latest and oldest record in Laravel Eloquent through ofMany.](https://skpaul.me/how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany)
-- [Copy or duplicate a row in Laravel project](https://skpaul.me/copy-or-duplicate-a-row-in-laravel-project/?utm_source=rss&utm_medium=rss&utm_campaign=copy-or-duplicate-a-row-in-laravel-project)
-- [Disable chrome extension’s JS when debugging in development tools](https://skpaul.me/disable-chrome-extensions-js-when-debugging-in-development-tools/?utm_source=rss&utm_medium=rss&utm_campaign=disable-chrome-extensions-js-when-debugging-in-development-tools)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
