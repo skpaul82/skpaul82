@@ -45,7 +45,7 @@ Thanks for visiting, and I'd love to connect!
 <br>
 
 ## Collaboration or Project?
-- Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/30min)
+- Open to collaborate and work. Set a schedule to discuss: [https://calendly.com/skpaul82/30min](https://calendly.com/skpaul82/30min)
 <br>
 
 ## Blog posts
