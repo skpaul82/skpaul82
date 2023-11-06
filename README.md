@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I'm Sanjoy, a full-stack web developer, a programmer who likes to code and food 😄. To know more you can visit here - [skpaul.me/about](https://skpaul.me/about)
+I'm Sanjoy, a full-stack web developer who likes to code, food and travel 😄. To know more, you can visit here: [skpaul.me/about](https://skpaul.me/about)
 <br>
-Thanks for visiting and I'd love to connect!
+Thanks for visiting, and I'd love to connect!
 <br>
 <!--Website -->
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/skpaul82)
@@ -45,7 +45,7 @@ Thanks for visiting and I'd love to connect!
 <br>
 
 ## Collaboration or Project?
-- Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/15min)
+- Open to collaborate and work. Let me know when we can discuss -- [https://calendly.com/skpaul82/15min](https://calendly.com/skpaul82/30min)
 <br>
 
 ## Blog posts
