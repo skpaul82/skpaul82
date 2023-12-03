@@ -50,11 +50,11 @@ Thanks for visiting, and I'd love to connect!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add JS library or plugin in Vuejs component from CDN](https://skpaul.me/how-to-add-js-library-or-plugin-in-vuejs-component/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-js-library-or-plugin-in-vuejs-component)
 - [The AWS Active Program for Startups – step by step in detail](https://skpaul.me/the-aws-active-program-for-startups-step-by-step-in-detail/?utm_source=rss&utm_medium=rss&utm_campaign=the-aws-active-program-for-startups-step-by-step-in-detail)
 - [Auto format or Masking phone number or te input field](https://skpaul.me/auto-format-or-masking-phone-number-or-te-input-field/?utm_source=rss&utm_medium=rss&utm_campaign=auto-format-or-masking-phone-number-or-te-input-field)
 - [How to Apply and Join the AWS Community Builders Program](https://skpaul.me/how-to-apply-and-join-the-aws-community-builders-program/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-apply-and-join-the-aws-community-builders-program)
 - [gitignore .env not working – remove cache from git history](https://skpaul.me/gitignore-env-not-working-remove-cache-from-git-history/?utm_source=rss&utm_medium=rss&utm_campaign=gitignore-env-not-working-remove-cache-from-git-history)
-- [How to get the latest and oldest record in Laravel Eloquent through ofMany.](https://skpaul.me/how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-the-latest-and-oldest-record-in-laravel-eloquent-through-ofmany)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
