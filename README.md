@@ -50,11 +50,11 @@ Thanks for visiting, and I'd love to connect!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Scope a Real Estate ERP in 4 Hours: AI-Assisted Product Roadmap Case Study](https://skpaul.me/ai-assisted-erp-product-roadmap-case-study/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assisted-erp-product-roadmap-case-study)
 - [Setup Cloudflare routes email in Gmail send email as](https://skpaul.me/setup-cloudflare-routes-email-in-gmail-send-email-as/?utm_source=rss&utm_medium=rss&utm_campaign=setup-cloudflare-routes-email-in-gmail-send-email-as)
 - [Quick Tip for Devs: Laravel 12’s new AI-powered code generation in Artisan is a game-changer!](https://skpaul.me/quick-tip-for-devs-laravel-12s-new-ai-powered-code-generation-in-artisan-is-a-game-changer/?utm_source=rss&utm_medium=rss&utm_campaign=quick-tip-for-devs-laravel-12s-new-ai-powered-code-generation-in-artisan-is-a-game-changer)
 - [How to Install Python 3.10 and pip on Mac, Windows, and Linux: step by step guide](https://skpaul.me/how-to-install-python-3-10-and-pip-on-mac-windows-and-linux-step-by-step-guide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-python-3-10-and-pip-on-mac-windows-and-linux-step-by-step-guide)
 - [AI-Augmented Software Engineering Lifecycle](https://skpaul.me/ai-augmented-software-engineering-lifecycle/?utm_source=rss&utm_medium=rss&utm_campaign=ai-augmented-software-engineering-lifecycle)
-- [How to add JS library or plugin in Vuejs component from CDN](https://skpaul.me/how-to-add-js-library-or-plugin-in-vuejs-component/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-js-library-or-plugin-in-vuejs-component)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
